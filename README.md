@@ -73,3 +73,10 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+env
+```sh
+I18N_LOCALE_CODES=en,fr,ru
+I18N_LOCALE_LANGUAGE=English,Français,Русский
+I18N_DEFAULT_LOCALE=en
+```

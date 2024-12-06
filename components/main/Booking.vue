@@ -2,7 +2,7 @@
   <div>
     <!-- Booking Search -->
     <section data-scroll-index="1" class="background bg-img bg-fixed section-padding" data-overlay-dark="5"
-      data-background="/img/slider/2.jpg">
+      data-background="/img/slider/slide_2.jpg">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center mb-15">

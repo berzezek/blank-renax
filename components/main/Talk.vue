@@ -2,7 +2,7 @@
   <div>
     <!-- Lets Talk -->
     <section class="lets-talk bg-img bg-fixed section-padding" data-overlay-dark="5"
-      data-background="/img/slider/3.jpg">
+      data-background="/img/slider/slide_3.jpg">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">

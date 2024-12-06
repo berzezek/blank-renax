@@ -5,8 +5,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center mb-30">
-            <div class="section-subtitle">Testimonials</div>
-            <div class="section-title">What Clients Say</div>
+            <div class="section-subtitle">{{ $t('testimonials') }}</div>
+            <div class="section-title">{{ $t('what_clients_say') }}</div>
           </div>
           <div class="col-md-12">
             <div class="owl-carousel owl-theme">
@@ -34,8 +34,7 @@
                   </div>
                 </div> <i class="fa-solid fa-quote-left"></i>
                 <div class="text">
-                  <p>Lorem posuere in miss drana en the nisan semere sceriun amiss etiam ornare in the miss drana is
-                    lorem fermen nunta urnase mauris in the interdum.</p>
+                  <p>{{ $t('testimonial_1_text') }}</p>
                 </div>
                 <div class="info mt-30">
                   <div class="img-curv">
@@ -56,8 +55,8 @@
                     </div>
                   </div>
                   <div class="ml-30">
-                    <h6>Dan Martin</h6>
-                    <p>Customer</p>
+                    <h6>{{ $t('testimonial_1_name') }}</h6>
+                    <p>{{ $t('testimonial_1_position') }}</p>
                   </div>
                 </div>
               </div>
@@ -85,8 +84,7 @@
                   </div>
                 </div> <i class="fa-solid fa-quote-left"></i>
                 <div class="text">
-                  <p>Lorem posuere in miss drana en the nisan semere sceriun amiss etiam ornare in the miss drana is
-                    lorem fermen nunta urnase mauris in the interdum.</p>
+                  <p>{{ $t('testimonial_2_text') }}</p>
                 </div>
                 <div class="info mt-30">
                   <div class="img-curv">
@@ -107,8 +105,8 @@
                     </div>
                   </div>
                   <div class="ml-30">
-                    <h6>Olivia Brown</h6>
-                    <p>Customer</p>
+                    <h6>{{ $t('testimonial_2_name') }}</h6>
+                    <p>{{ $t('testimonial_2_position') }}</p>
                   </div>
                 </div>
               </div>
@@ -136,8 +134,7 @@
                   </div>
                 </div> <i class="fa-solid fa-quote-left"></i>
                 <div class="text">
-                  <p>Lorem posuere in miss drana en the nisan semere sceriun amiss etiam ornare in the miss drana is
-                    lorem fermen nunta urnase mauris in the interdum.</p>
+                  <p>{{ $t('testimonial_3_text') }}</p>
                 </div>
                 <div class="info mt-30">
                   <div class="img-curv">
@@ -158,8 +155,8 @@
                     </div>
                   </div>
                   <div class="ml-30">
-                    <h6>Emily Martin</h6>
-                    <p>Customer</p>
+                    <h6>{{ $t('testimonial_3_name') }}</h6>
+                    <p>{{ $t('testimonial_3_position') }}</p>
                   </div>
                 </div>
               </div>

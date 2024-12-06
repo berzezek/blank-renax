@@ -5,8 +5,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center mb-30">
-            <div class="section-subtitle">Our Blog</div>
-            <div class="section-title">Latest <span>News</span></div>
+            <div class="section-subtitle">{{ $t('our_blog') }}</div>
+            <div class="section-title">{{ $t('latest_news') }} <span>{{ $t('latest_news1') }}</span></div>
           </div>
         </div>
         <div class="row">
@@ -183,7 +183,44 @@
 </template>
 
 <script setup lang="ts">
-
+const blogs = [
+  {
+    img: '/img/blog/3.jpg',
+    title: 'Documents required for car rental',
+    date: '29 Apr',
+    category: 'Rental',
+  },
+  {
+    img: '/img/blog/4.jpg',
+    title: 'Rental cost of sport and other cars',
+    date: '27 Apr',
+    category: 'Sport Cars',
+  },
+  {
+    img: '/img/blog/5.jpg',
+    title: 'Rental cars how to check driving fines?',
+    date: '25 Apr',
+    category: 'Fines',
+  },
+  {
+    img: '/img/blog/6.jpg',
+    title: 'How to Rent a Car at the Airport Terminal?',
+    date: '23 Apr',
+    category: 'Airport',
+  },
+  {
+    img: '/img/blog/7.jpg',
+    title: 'Penalties for violating the rules in rental cars',
+    date: '22 Apr',
+    category: 'Rules',
+  },
+  {
+    img: '/img/blog/8.jpg',
+    title: 'How to check a car before renting?',
+    date: '20 Apr',
+    category: 'Rental Car',
+  },
+]
 </script>
 
 <style scoped></style>

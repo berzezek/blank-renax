@@ -1,0 +1,16 @@
+{
+  "services_section_subtitle": "services_section_subtitle",
+  "services_section_title": "services_section_title",
+  "service_corporate_car_rental_title": "service_corporate_car_rental_title",
+  "service_corporate_car_rental_description": "service_corporate_car_rental_description",
+  "service_car_rental_driver_title": "service_car_rental_driver_title",
+  "service_car_rental_driver_description": "service_car_rental_driver_description",
+  "service_airport_transfer_title": "service_airport_transfer_title",
+  "service_airport_transfer_description": "service_airport_transfer_description",
+  "service_fleet_leasing_title": "service_fleet_leasing_title",
+  "service_fleet_leasing_description": "service_fleet_leasing_description",
+  "service_vip_transfer_title": "service_vip_transfer_title",
+  "service_vip_transfer_description": "service_vip_transfer_description",
+  "service_private_transfer_title": "service_private_transfer_title",
+  "service_private_transfer_description": "service_private_transfer_description"
+}

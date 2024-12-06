@@ -7,7 +7,7 @@
     <main-booking />
     <main-products />
     <main-divider />
-    <main-category />
+    <!-- <main-category /> -->
     <main-divider />
     <main-process />
     <main-video />
@@ -15,7 +15,7 @@
     <main-divider />
     <main-blog />
     <main-talk />
-    <main-client />
+    <!-- <main-client /> -->
   </div>
 </template>
 
